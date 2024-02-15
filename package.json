@@ -1,0 +1,17 @@
+{
+  "name": "aws-lambda-screenshot-puppeteer",
+  "version": "1.0.0",
+  "description": "aws-lambda-screenshot-puppeteer",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "KerwinChina",
+  "license": "MIT",
+  "dependencies": {
+    "aws-sdk": "^2.1510.0",
+    "chrome-aws-lambda": "^10.1.0",
+    "puppeteer-core": "^10.4.0"
+  }
+}
